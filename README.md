@@ -13,7 +13,7 @@
 
 <div style="display: flex;gap: 3px;flex-wrap: wrap">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" class="Hello" width="45" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
 
@@ -71,7 +71,10 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="background-color: white; filter: invert(1)" width="45" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="background-color: white; filter: invert(1)" width="45" />
+<span style="background-color: white; filter: invert(1)" >
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" background-color= />
+</span>
 
 </div>
 

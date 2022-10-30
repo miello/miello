@@ -1,4 +1,15 @@
+<div style="display: flex; justify-content: center">
+
 # Hi, My name is Earth :wave:
+
+</div>
+<div style="display: flex; justify-content: center">
+
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pisitpong@miello.dev)
+
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miello)
+
+</div>
 
 - Currently I'm 3rd-year Computer engineering student, Chulalongkorn University :gear:
 - Beginner front-end developer for 2 years :computer:
@@ -13,7 +24,7 @@
 
 <div style="display: flex;gap: 3px;flex-wrap: wrap">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" class="Hello" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
 
@@ -51,7 +62,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"  width="45" style="background-color: white; filter: invert(1)" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" />
 
 </div>
 
@@ -71,10 +82,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="background-color: white; filter: invert(1)" width="45" />
 
-<span style="background-color: white; filter: invert(1)" >
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" background-color= />
-</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" style="background-color: white; filter: invert(1)" />
 
 </div>
 

@@ -2,8 +2,8 @@
 
 - Currently I'm 3rd-year Computer engineering student, Chulalongkorn University :gear:
 - Beginner front-end developer for 2 years :computer:
-- Interested in Computer Security, 3D Model in Web, Micro-frontend, Smart Contract :exploding_head:
-- Sleepy guy :sleepy: who wants bedroom
+- Interested in Computer Security, 3D Model in Web, Micro-frontend, Smart Contract and relevant fields :exploding_head:
+- Sleepy guy :sleepy:
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 

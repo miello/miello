@@ -1,16 +1,24 @@
-<div style="display: flex; justify-content: center">
+<p align="center">
 
 # Hi, My name is Earth :wave:
 
-</div>
-<div style="display: flex; justify-content: center">
+</p>
 
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pisitpong@miello.dev)
+<p align="center">
 
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miello)
+<a href="mailTo:pisitpong@miello.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-</div>
+<a href="https://github.com/miello" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
+</p>
+
+## About me
+
+- I'm 20 years old
 - Currently I'm 3rd-year Computer engineering student, Chulalongkorn University :gear:
 - Beginner front-end developer for 2 years :computer:
 - Interested in Computer Security, 3D Model in Web, Micro-frontend, Smart Contract and relevant fields :exploding_head:

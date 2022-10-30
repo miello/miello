@@ -104,7 +104,7 @@ Hi, I'm Earth 🌏
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="background-color: white; filter: invert(1)" width="45" />
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="45" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="45" />
 </div>

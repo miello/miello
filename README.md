@@ -1,8 +1,8 @@
-<p align="center">
+<h1 align="center">
 
-# Hi, My name is Earth :wave:
+Hi, My name is Earth :wave:
 
-</p>
+</h1>
 
 <p align="center">
 

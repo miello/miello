@@ -1,6 +1,6 @@
 <h1 align="center">
 
-Hi, My name is Earth :wave:
+Hi, I'm Earth 🌏
 
 </h1>
 

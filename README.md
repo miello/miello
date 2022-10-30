@@ -1,6 +1,8 @@
-Hi, My name is Earth :wave:
+# Hi, My name is Earth :wave:
 
-- Beginner frontend developer
+- Currently I'm 3rd-year Computer engineering student, Chulalongkorn University :gear:
+- Beginner front-end developer for 2 years :computer:
+- Interested in Computer Security, 3D Model in Web, Micro-frontend, Smart Contract :exploding_head:
 - Sleepy guy :sleepy: who wants bedroom
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
@@ -16,7 +18,7 @@ Hi, My name is Earth :wave:
     }
 </style>
 
-## Programming Language
+## (Programming) Language
 
 ### Intermediate
 
@@ -38,13 +40,13 @@ Hi, My name is Earth :wave:
 
 <div class="icon">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" style="background-color: white; filter: invert(1)" />
 
@@ -76,6 +78,8 @@ Hi, My name is Earth :wave:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
           
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="background-color: white; filter: invert(1)" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="background-color: white; filter: invert(1)" />
@@ -113,7 +117,7 @@ Hi, My name is Earth :wave:
 
 ![Miello's GitHub stats](https://github-readme-stats.vercel.app/api?username=miello&show_icons=true&theme=radical)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miello&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miello&layout=compact&theme=radical)
 
 ## Credit
 

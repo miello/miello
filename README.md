@@ -24,7 +24,7 @@ Hi, I'm Earth 🌏
 - Interested in Computer Security, 3D Model in Web, Micro-frontend, Smart Contract and relevant fields :exploding_head:
 - Sleepy guy :sleepy:
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+**You can find my résumé [here](https://resume.miello.dev)**
 
 ## (Programming) Language
 

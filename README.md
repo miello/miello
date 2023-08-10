@@ -18,10 +18,10 @@ Hi, I'm Earth 🌏
 
 ## About me
 
-- I'm 20 years old
-- Currently I'm 3rd-year Computer engineering student, Chulalongkorn University :gear:
+- I'm 21 years old 👨‍🦲
+- Currently I'm 4th-year Computer engineering student, Chulalongkorn University :gear:
 - Beginner front-end developer for 2 years :computer:
-- Interested in Computer Security, 3D Model in Web, Micro-frontend, Smart Contract and relevant fields :exploding_head:
+- Interested in Computer Security, Full-stack, 3D Model in Web, Micro-frontend, and relevant fields :exploding_head:
 - Sleepy guy :sleepy:
 
 **You can find my résumé [here](https://resume.miello.dev)**

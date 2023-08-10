@@ -20,7 +20,7 @@ Hi, I'm Earth 🌏
 
 - I'm 21 years old 👨‍🦲
 - Currently I'm 4th-year Computer engineering student, Chulalongkorn University :gear:
-- Beginner front-end developer for 2 years :computer:
+- Beginner front-end developer for 2.5 years :computer:
 - Interested in Computer Security, Full-stack, 3D Model in Web, Micro-frontend, and relevant fields :exploding_head:
 - Sleepy guy :sleepy:
 

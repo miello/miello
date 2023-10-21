@@ -1,8 +1,4 @@
-<h1 align="center">
-
-Hi, I'm Earth 🌏
-
-</h1>
+<h1 align="center">Hi, I'm Earth 🌏</h1>
 
 <p align="center">
 
@@ -14,13 +10,17 @@ Hi, I'm Earth 🌏
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<a href="https://www.linkedin.com/in/pisitpong-chongpipattanakul" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </p>
 
 ## About me
 
 - I'm 21 years old 👨‍🦲
 - Currently I'm 4th-year Computer engineering student, Chulalongkorn University :gear:
-- Beginner front-end developer for 2.5 years :computer:
+- Doing in front-end developer for 3 years :computer:
 - Interested in Computer Security, Full-stack, Micro-frontend, and relevant fields :exploding_head:
 - Sleepy guy :sleepy:
 

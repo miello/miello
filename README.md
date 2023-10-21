@@ -6,7 +6,7 @@ Hi, I'm Earth 🌏
 
 <p align="center">
 
-<a href="mailTo:pisitpong@miello.dev" target="_blank">
+<a href="mailTo:pisitpongchongpipattanakul@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -21,7 +21,7 @@ Hi, I'm Earth 🌏
 - I'm 21 years old 👨‍🦲
 - Currently I'm 4th-year Computer engineering student, Chulalongkorn University :gear:
 - Beginner front-end developer for 2.5 years :computer:
-- Interested in Computer Security, Full-stack, 3D Model in Web, Micro-frontend, and relevant fields :exploding_head:
+- Interested in Computer Security, Full-stack, Micro-frontend, and relevant fields :exploding_head:
 - Sleepy guy :sleepy:
 
 **You can find my résumé [here](https://resume.miello.dev)**

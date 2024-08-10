@@ -19,7 +19,7 @@
 ## About me
 
 - I'm 22 years old 👨‍🦲
-- Graduated from Chulalongkorn University with Bachelor degree of Engineering, B.Eng. (Computer Engineering) :gear:
+- Graduated from Chulalongkorn University with Bachelor's degree of Engineering, B.Eng. (Computer Engineering) :gear:
 - Doing in front-end developer for 4 years :computer:
 - Interested in Computer Security, Full-stack, Micro-frontend, and relevant fields :exploding_head:
 - Sleepy guy :sleepy:

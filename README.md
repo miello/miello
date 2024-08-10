@@ -18,15 +18,15 @@
 
 ## About me
 
-- I'm 21 years old 👨‍🦲
-- Currently I'm 4th-year Computer engineering student, Chulalongkorn University :gear:
-- Doing in front-end developer for 3 years :computer:
+- I'm 22 years old 👨‍🦲
+- Graduated from Chulalongkorn University with Bachelor degree of Engineering, B.Eng. (Computer Engineering) :gear:
+- Doing in front-end developer for 4 years :computer:
 - Interested in Computer Security, Full-stack, Micro-frontend, and relevant fields :exploding_head:
 - Sleepy guy :sleepy:
 
 **You can find my résumé [here](https://resume.miello.dev)**
 
-## (Programming) Language
+## Tech Stack
 
 ### Intermediate
 
@@ -39,6 +39,10 @@
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 
 </div>
 
@@ -55,24 +59,6 @@
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" />
-    
-</div>
-
-## Framework / Library
-
-### Intermediate
-
-<div>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-
-</div>
-
-### Beginner
-
-<div style="display: flex;gap: 3px;flex-wrap: wrap">
 
 <img src="https://img.shields.io/badge/Solid%20JS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white" />
 
